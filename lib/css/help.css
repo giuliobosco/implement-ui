@@ -22,6 +22,10 @@
     padding-top: 20px;
 }
 
+.pt15 {
+    padding-top: 15px;
+}
+
 .pt10 {
     padding-top: 10px;
 }
@@ -92,6 +96,10 @@
 
 .mt30 {
     margin-top: 30px;
+}
+
+.mt20 {
+    margin-top: 20px;
 }
 
 .mt5 {
