@@ -1,0 +1,47 @@
+html, body {
+    min-height: 100%;
+    background: #333333 linear-gradient(to bottom right, #333333, #111111) no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p, div {
+    margin: 0;
+
+    color: #fefefe;
+}
+
+header {
+    margin-top: 20px;
+}
+
+article img {
+    width: 100%;
+}
+
+article .description {
+    background: #353535 linear-gradient(to top right, #353535, #222222);
+    border-radius: 1px;
+}
+
+article .s {
+    color: #646464;
+}
+
+article .kilowatt {
+    background-color: #35312e;
+    border-radius: 5px;
+}
+
+hr {
+    background-color: #fefefe;
+    color: #fefefe;
+    height: 2px;
+    width: 5px;
+    margin-top: 10px;
+}
+
+.btn-mehr {
+    background-color: #c0a37d;
+    border: 0;
+    border-radius: 8px;
+    width: 100%;
+}
