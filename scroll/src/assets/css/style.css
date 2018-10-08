@@ -4,6 +4,9 @@ html, body {
 
     min-height: 100%;
     height: 100%;
+
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
 }
 
 .container {
@@ -23,6 +26,8 @@ html, body {
     height: 100%;
     position: relative;
     float: left;
+
+    scroll-snap-align: start;
 }
 
 .one { background:red; }
