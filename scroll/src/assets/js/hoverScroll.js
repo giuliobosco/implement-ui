@@ -23,4 +23,7 @@
         });
     });
 
+    $.scrollify({
+        section : ".slide",
+    });
 })(window.jQuery);
